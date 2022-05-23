@@ -5,7 +5,7 @@
     align-items: flex-end;
     height: 477px;
     padding: 10px 0;
-    margin: 0 3%;
+    /* margin: 0 3%; */
 }
 
 .testimonial-single {
@@ -15,6 +15,7 @@
     box-shadow: 1px 4px 10px rgba(11, 72, 112, 0.12);
     border-radius: 40px;
     position: relative;
+    margin: 0 3%;
 }
 
 .testimonial-single .single-card {
@@ -25,11 +26,6 @@
     position: absolute;
     top: -50px;
 }
-
-/* .testimonial-single .single-card .testimony-img {
-    width: 121px;
-    height: 121px;
-} */
 
 .testimonial-single .single-card .testimony-img img {
     width: 121px;
@@ -88,6 +84,7 @@
         background: #ffffff;
         box-shadow: 1px 2px 12px rgba(11, 72, 112, 0.12);
         border-radius: 40px;
+        margin: 0 2%;
     }
 
     .testimonial-single .single-card {

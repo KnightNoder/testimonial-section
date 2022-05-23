@@ -50,7 +50,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 0 9%;
+    padding: 0 5%;
 }
 
 .testimonial-container
@@ -70,7 +70,7 @@
 .left-btn,
 .right-btn {
     border: none;
-    transform: translate(-60px, 210px);
+    transform: translate(-30px, 210px);
     background-color: #fe8276 !important;
     padding: 20px;
     border-radius: 10px;
@@ -78,7 +78,7 @@
 }
 
 .right-btn {
-    transform: translate(60px, 210px);
+    transform: translate(30px, 210px);
 }
 
 @media only screen and (max-width: 480px) {
@@ -89,9 +89,8 @@
         .testimonial-content
         .testimonial-body
         .testimonial-body-content {
-        padding: 0;
-        width: 90%;
-        margin-left: 5%;
+        padding: 0 5%;
+        width: 100%;
     }
 
     .testimonial-container .testimonial-content .testimonial-header {

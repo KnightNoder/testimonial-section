@@ -44,11 +44,17 @@ class TestimonialSlider extends Component {
     render() {
         return (
             <Carousel
-                show={window.screen.width > 820 ? 3 : 1.25}
+                show={
+                    window.screen.width >= 1000
+                        ? 3
+                        : window.screen.width >= 820
+                        ? 2
+                        : 1.25
+                }
                 slide={1}
                 swiping={true}
                 useArrowKeys={false}
-                responsive={false}
+                responsive={true}
                 transition={0.5}
                 swipeOn={0.2}
             >
