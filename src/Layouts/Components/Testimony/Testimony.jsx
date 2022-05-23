@@ -4,10 +4,6 @@ import "./Testimony.css";
 import { AiFillStar } from "react-icons/ai";
 
 class Testimony extends Component {
-    // constructor(props) {
-    //     super(props);
-    // }
-
     render() {
         return (
             <div className="testimonial-all">

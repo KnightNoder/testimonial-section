@@ -17,7 +17,7 @@
     .testimonial-content
     .testimonial-header
     .testimonial-title {
-    font-family: "HarmoniaSansProCyr";
+    font-family: "ITC-Caslon-224-Std";
     font-style: normal;
     font-weight: 400;
     font-size: 30px;
@@ -131,11 +131,5 @@
     .left-btn,
     .right-btn {
         display: none;
-        /* border: none;
-        transform: translate(0px, 200px);
-        background-color: #fe8276 !important;
-        padding: 10px;
-        border-radius: 5px;
-        color: #fff; */
     }
 }

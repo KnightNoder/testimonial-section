@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import Testimony from "../Testimony/Testimony";
-import { Carousel } from "@trendyol-js/react-carousel";
+import { Carousel, ScrollingCarousel } from "@trendyol-js/react-carousel";
 
 class TestimonialSlider extends Component {
     constructor(props) {
@@ -49,6 +49,8 @@ class TestimonialSlider extends Component {
                 swiping={true}
                 useArrowKeys={false}
                 responsive={false}
+                transition={0.1}
+                swipeOn={0.2}
             >
                 {this.state.testimonyDetails.map((item, index) => {
                     return (

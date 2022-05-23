@@ -1,16 +1,21 @@
 @font-face {
-  font-family: "HarmoniaSansProCyr-Bold";
-  src: url("./assets/fonts/HarmoniaSansProCyr-Bold.ttf");
+    font-family: "HarmoniaSansProCyr-Bold";
+    src: url("./assets/fonts/HarmoniaSansProCyr-Bold.ttf");
 }
 
 @font-face {
-  font-family: "HarmoniaSansProCyr";
-  src: url("./assets/fonts/HarmoniaSansProCyr-Regular.ttf");
+    font-family: "HarmoniaSansProCyr";
+    src: url("./assets/fonts/HarmoniaSansProCyr-Regular.ttf");
+}
+
+@font-face {
+    font-family: "ITC-Caslon-224-Std";
+    src: url("./assets/fonts/ITC-Caslon-224-Std-Black_24521.ttf");
 }
 
 * {
-  box-sizing: border-box;
-  padding: 0;
-  margin: 0;
-  font-family: "HarmoniaSansProCyr-Bold";
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: "HarmoniaSansProCyr-Bold";
 }
