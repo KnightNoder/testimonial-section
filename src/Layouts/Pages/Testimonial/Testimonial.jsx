@@ -23,7 +23,7 @@ class Testimonial extends Component {
                         <div className="testimonial-title">Setting The bar</div>
                         <div className="testimonial-sub-title">
                             Don’t take my word for it, listen to what our
-                            customers' have to say
+                            Customers' have to say
                         </div>
                     </div>
                     <div className="testimonial-body">
