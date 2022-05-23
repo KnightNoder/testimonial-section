@@ -13,7 +13,6 @@ class Testimonial extends Component {
             " fa-solid fa-less-than left-btn";
         document.querySelector("button[data-direction='right']").className +=
             " fa-solid fa-greater-than right-btn";
-        console.log(window.screen.width);
     };
 
     render() {
