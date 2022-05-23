@@ -130,11 +130,12 @@
 
     .left-btn,
     .right-btn {
-        border: none;
+        display: none;
+        /* border: none;
         transform: translate(0px, 200px);
         background-color: #fe8276 !important;
         padding: 10px;
         border-radius: 5px;
-        color: #fff;
+        color: #fff; */
     }
 }
