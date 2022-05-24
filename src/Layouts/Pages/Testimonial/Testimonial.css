@@ -67,6 +67,10 @@
     padding: 20px;
 }
 
+.styles-module_item-container__a8zaY {
+    cursor: default;
+}
+
 .left-btn,
 .right-btn {
     border: none;
@@ -75,6 +79,7 @@
     padding: 20px;
     border-radius: 10px;
     color: #fff;
+    cursor: pointer;
 }
 
 .right-btn {
