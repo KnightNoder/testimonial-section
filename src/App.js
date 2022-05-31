@@ -1,14 +1,14 @@
 import React from "react";
-import "./App.css";
+import "./AppTestimonial.css";
 
 import Testimonial from "./Layouts/Pages/Testimonial/Testimonial";
 
 function App() {
-  return (
-    <div className="App">
-      <Testimonial />
-    </div>
-  );
+    return (
+        <div className="AppTestimonial">
+            <Testimonial />
+        </div>
+    );
 }
 
 export default App;
