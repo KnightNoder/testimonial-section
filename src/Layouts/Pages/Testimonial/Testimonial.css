@@ -72,8 +72,8 @@
     cursor: default;
 }
 
-.left-btn,
-.right-btn {
+.testimonial-left-btn,
+.testimonial-right-btn {
     border: none;
     transform: translate(-30px, 210px);
     background-color: #fe8276 !important;
@@ -83,7 +83,7 @@
     cursor: pointer;
 }
 
-.right-btn {
+.testimonial-right-btn {
     transform: translate(30px, 210px);
 }
 
@@ -133,8 +133,8 @@
         margin-top: 0px;
     }
 
-    .left-btn,
-    .right-btn {
+    .testimonial-left-btn,
+    .testimonial-right-btn {
         display: none;
     }
 }

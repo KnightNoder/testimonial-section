@@ -10,9 +10,9 @@ class Testimonial extends Component {
 
     componentDidMount = () => {
         document.querySelector("button[data-direction='left']").className +=
-            " fa-solid fa-less-than left-btn";
+            " fa-solid fa-less-than testimonial-left-btn";
         document.querySelector("button[data-direction='right']").className +=
-            " fa-solid fa-greater-than right-btn";
+            " fa-solid fa-greater-than testimonial-right-btn";
     };
 
     render() {
