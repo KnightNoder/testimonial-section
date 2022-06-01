@@ -72,8 +72,8 @@
     cursor: default;
 }
 
-.testimonial-left-btn,
-.testimonial-right-btn {
+.styles-module_carousel-arrow__26sRw.testimonial-left-btn,
+.styles-module_carousel-arrow__26sRw.testimonial-right-btn {
     border: none;
     transform: translate(-30px, 210px);
     background-color: #fe8276 !important;
@@ -83,7 +83,7 @@
     cursor: pointer;
 }
 
-.testimonial-right-btn {
+.styles-module_carousel-arrow__26sRw.testimonial-right-btn {
     transform: translate(30px, 210px);
 }
 
@@ -133,8 +133,8 @@
         margin-top: 0px;
     }
 
-    .testimonial-left-btn,
-    .testimonial-right-btn {
+    .styles-module_carousel-arrow__26sRw.testimonial-left-btn,
+    .styles-module_carousel-arrow__26sRw.testimonial-right-btn {
         display: none;
     }
 }
