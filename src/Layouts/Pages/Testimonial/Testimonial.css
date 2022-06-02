@@ -184,7 +184,8 @@
         .testimonial-body
         .testimonial-body-content
         .styles-module_carousel-base__3keqD
-        div.testimonial-right-btn {
+        div
+        .testimonial-right-btn {
         display: none !important;
     }
 }
