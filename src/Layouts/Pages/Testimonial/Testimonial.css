@@ -64,12 +64,30 @@
     justify-content: center;
 }
 
-.styles-module_item-container__a8zaY {
+.testimonial-container
+    .testimonial-content
+    .testimonial-body
+    .testimonial-body-content
+    .styles-module_carousel-base__3keqD
+    div
+    .styles-module_item-container__a8zaY {
     cursor: default !important;
 }
 
-.testimonial-left-btn,
-.testimonial-right-btn {
+.testimonial-container
+    .testimonial-content
+    .testimonial-body
+    .testimonial-body-content
+    .styles-module_carousel-base__3keqD
+    div
+    .testimonial-left-btn,
+.testimonial-container
+    .testimonial-content
+    .testimonial-body
+    .testimonial-body-content
+    .styles-module_carousel-base__3keqD
+    div
+    .testimonial-right-btn {
     border: none !important;
     transform: translate(-30px, 210px) !important;
     background-color: #fe8276 !important;
@@ -80,12 +98,30 @@
     transition: all 0.2s ease-in-out !important;
 }
 
-.testimonial-right-btn {
+.testimonial-container
+    .testimonial-content
+    .testimonial-body
+    .testimonial-body-content
+    .styles-module_carousel-base__3keqD
+    div
+    .testimonial-right-btn {
     transform: translate(30px, 210px) !important;
 }
 
-.testimonial-left-btn:active,
-.testimonial-right-btn:active {
+.testimonial-container
+    .testimonial-content
+    .testimonial-body
+    .testimonial-body-content
+    .styles-module_carousel-base__3keqD
+    div
+    .testimonial-left-btn:active,
+.testimonial-container
+    .testimonial-content
+    .testimonial-body
+    .testimonial-body-content
+    .styles-module_carousel-base__3keqD
+    div
+    .testimonial-right-btn:active {
     background-color: #fea29a !important;
     box-shadow: 0 0 5px -1px rgba(0, 0, 0, 0.6) !important;
 }
@@ -136,8 +172,19 @@
         margin-top: 0px;
     }
 
-    .testimonial-left-btn,
-    .testimonial-right-btn {
+    .testimonial-container
+        .testimonial-content
+        .testimonial-body
+        .testimonial-body-content
+        .styles-module_carousel-base__3keqD
+        div
+        .testimonial-left-btn,
+    .testimonial-container
+        .testimonial-content
+        .testimonial-body
+        .testimonial-body-content
+        .styles-module_carousel-base__3keqD
+        div.testimonial-right-btn {
         display: none !important;
     }
 }
