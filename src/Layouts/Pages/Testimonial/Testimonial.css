@@ -68,7 +68,7 @@
     .testimonial-content
     .testimonial-body
     .testimonial-body-content
-    .styles-module_carousel-base__3keqD
+    .testimonial-react-carousel
     div
     .styles-module_item-container__a8zaY {
     cursor: default !important;
@@ -78,16 +78,16 @@
     .testimonial-content
     .testimonial-body
     .testimonial-body-content
-    .styles-module_carousel-base__3keqD
+    .testimonial-react-carousel
     div
-    .testimonial-left-btn,
+    button[data-direction="left"],
 .testimonial-container
     .testimonial-content
     .testimonial-body
     .testimonial-body-content
-    .styles-module_carousel-base__3keqD
+    .testimonial-react-carousel
     div
-    .testimonial-right-btn {
+    button[data-direction="right"] {
     border: none !important;
     transform: translate(-30px, 210px) !important;
     background-color: #fe8276 !important;
@@ -102,9 +102,9 @@
     .testimonial-content
     .testimonial-body
     .testimonial-body-content
-    .styles-module_carousel-base__3keqD
+    .testimonial-react-carousel
     div
-    .testimonial-right-btn {
+    button[data-direction="right"] {
     transform: translate(30px, 210px) !important;
 }
 
@@ -112,16 +112,16 @@
     .testimonial-content
     .testimonial-body
     .testimonial-body-content
-    .styles-module_carousel-base__3keqD
+    .testimonial-react-carousel
     div
-    .testimonial-left-btn:active,
+    button[data-direction="left"]:active,
 .testimonial-container
     .testimonial-content
     .testimonial-body
     .testimonial-body-content
-    .styles-module_carousel-base__3keqD
+    .testimonial-react-carousel
     div
-    .testimonial-right-btn:active {
+    button[data-direction="right"]:active {
     background-color: #fea29a !important;
     box-shadow: 0 0 5px -1px rgba(0, 0, 0, 0.6) !important;
 }
@@ -176,16 +176,16 @@
         .testimonial-content
         .testimonial-body
         .testimonial-body-content
-        .styles-module_carousel-base__3keqD
+        .testimonial-react-carousel
         div
-        .testimonial-left-btn,
+        button[data-direction="left"],
     .testimonial-container
         .testimonial-content
         .testimonial-body
         .testimonial-body-content
-        .styles-module_carousel-base__3keqD
+        .testimonial-react-carousel
         div
-        .testimonial-right-btn {
+        button[data-direction="right"] {
         display: none !important;
     }
 }

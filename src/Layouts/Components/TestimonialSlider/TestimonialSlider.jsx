@@ -53,10 +53,10 @@ class TestimonialSlider extends Component {
                 }
                 slide={1}
                 swiping={true}
-                useArrowKeys={false}
+                // useArrowKeys={false}
                 responsive={true}
-                transition={0.5}
                 swipeOn={0.2}
+                className="testimonial-react-carousel"
             >
                 {this.state.testimonyDetails.map((item, index) => {
                     return (
