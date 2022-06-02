@@ -15,9 +15,9 @@ class Testimonial extends Component {
         //     " fa-solid fa-greater-than testimonial-right-btn";
 
         document.querySelector("button[data-direction='left']").className +=
-            " fa-solid fa-less-than testimonial-left-btn";
+            "  testimonial-left-btn";
         document.querySelector("button[data-direction='right']").className +=
-            " fa-solid fa-greater-than testimonial-right-btn";
+            "  testimonial-right-btn";
         console.log(document.querySelector("button[data-direction='left']"));
     };
 

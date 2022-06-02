@@ -114,6 +114,74 @@
     .testimonial-body-content
     .testimonial-react-carousel
     div
+    button[data-direction="left"]::before,
+.testimonial-container
+    .testimonial-content
+    .testimonial-body
+    .testimonial-body-content
+    .testimonial-react-carousel
+    div
+    button[data-direction="right"]::before {
+    content: " ";
+    width: 15px;
+    height: 2px;
+    background-color: #fff;
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(-30deg);
+}
+
+.testimonial-container
+    .testimonial-content
+    .testimonial-body
+    .testimonial-body-content
+    .testimonial-react-carousel
+    div
+    button[data-direction="left"]::after,
+.testimonial-container
+    .testimonial-content
+    .testimonial-body
+    .testimonial-body-content
+    .testimonial-react-carousel
+    div
+    button[data-direction="right"]::after {
+    content: " ";
+    width: 15px;
+    height: 2px;
+    background-color: #fff;
+    position: absolute;
+    top: 58%;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(30deg);
+}
+
+.testimonial-container
+    .testimonial-content
+    .testimonial-body
+    .testimonial-body-content
+    .testimonial-react-carousel
+    div
+    button[data-direction="right"]::after {
+    transform: translate(-50%, -50%) rotate(-30deg);
+}
+
+.testimonial-container
+    .testimonial-content
+    .testimonial-body
+    .testimonial-body-content
+    .testimonial-react-carousel
+    div
+    button[data-direction="right"]::before {
+    transform: translate(-50%, -50%) rotate(30deg);
+}
+
+.testimonial-container
+    .testimonial-content
+    .testimonial-body
+    .testimonial-body-content
+    .testimonial-react-carousel
+    div
     button[data-direction="left"]:active,
 .testimonial-container
     .testimonial-content
