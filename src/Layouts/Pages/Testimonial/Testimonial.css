@@ -80,14 +80,14 @@
     .testimonial-body-content
     .styles-module_carousel-base__3keqD
     div
-    .styles-module_carousel-arrow__26sRw,
+    .testimonial-left-btn,
 .testimonial-container
     .testimonial-content
     .testimonial-body
     .testimonial-body-content
     .styles-module_carousel-base__3keqD
     div
-    .styles-module_carousel-arrow__26sRw {
+    .testimonial-right-btn {
     border: none !important;
     transform: translate(-30px, 210px) !important;
     background-color: #fe8276 !important;
@@ -104,7 +104,7 @@
     .testimonial-body-content
     .styles-module_carousel-base__3keqD
     div
-    .styles-module_carousel-arrow__26sRw {
+    .testimonial-right-btn {
     transform: translate(30px, 210px) !important;
 }
 
@@ -114,14 +114,14 @@
     .testimonial-body-content
     .styles-module_carousel-base__3keqD
     div
-    .styles-module_carousel-arrow__26sRw:active,
+    .testimonial-left-btn:active,
 .testimonial-container
     .testimonial-content
     .testimonial-body
     .testimonial-body-content
     .styles-module_carousel-base__3keqD
     div
-    .styles-module_carousel-arrow__26sRw:active {
+    .testimonial-right-btn:active {
     background-color: #fea29a !important;
     box-shadow: 0 0 5px -1px rgba(0, 0, 0, 0.6) !important;
 }
@@ -178,14 +178,14 @@
         .testimonial-body-content
         .styles-module_carousel-base__3keqD
         div
-        .styles-module_carousel-arrow__26sRw,
+        .testimonial-left-btn,
     .testimonial-container
         .testimonial-content
         .testimonial-body
         .testimonial-body-content
         .styles-module_carousel-base__3keqD
         div
-        .styles-module_carousel-arrow__26sRw {
+        .testimonial-right-btn {
         display: none !important;
     }
 }
