@@ -45,7 +45,7 @@ class TestimonialSlider extends Component {
         return (
             <Carousel
                 show={
-                    window.screen.width >= 1500
+                    window.screen.width >= 2000
                         ? 4
                         : window.screen.width >= 1000
                         ? 3
