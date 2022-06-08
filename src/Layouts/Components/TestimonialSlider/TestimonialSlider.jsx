@@ -57,7 +57,6 @@ class TestimonialSlider extends Component {
                 }
                 slide={1}
                 swiping={true}
-                // useArrowKeys={false}
                 responsive={true}
                 swipeOn={0.2}
                 className="testimonial-react-carousel"

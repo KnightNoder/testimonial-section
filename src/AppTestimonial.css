@@ -7,9 +7,3 @@
     font-family: "HarmoniaSansProCyr";
     src: url("./assets/fonts/HarmoniaSansProCyr-Regular.ttf");
 }
-
-* {
-    box-sizing: border-box;
-    padding: 0;
-    margin: 0;
-}
