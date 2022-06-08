@@ -34,12 +34,13 @@
 }
 
 .testimonial-all .testimonial-single .single-card .testimony-name {
+    font-family: "HarmoniaSansProCyr-Bold";
     font-style: normal;
     font-weight: 700;
     font-size: 18px;
     letter-spacing: 0.5px;
     margin: 16px 32px 10px 32px;
-    color: #263238;
+    color: #333;
 }
 
 .testimonial-all .testimonial-single .single-card .testimony-stars .star-icon {
@@ -65,7 +66,7 @@
     font-size: 16px;
     line-height: 20px;
     letter-spacing: 0.5px;
-    color: #263238;
+    color: #333;
     margin: 0 32px;
 }
 

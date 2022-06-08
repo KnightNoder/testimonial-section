@@ -18,12 +18,12 @@
     .testimonial-content
     .testimonial-header
     .testimonial-title {
-    font-family: "ITC-Caslon-224-Std";
+    font-family: "HarmoniaSansProCyr-Bold";
     font-style: normal;
     font-weight: 400;
     font-size: 30px;
     letter-spacing: 0.5px;
-    color: #000000;
+    color: #3d4550;
 }
 
 .testimonial-container
@@ -35,7 +35,7 @@
     font-weight: 400;
     font-size: 18px;
     letter-spacing: 0.5px;
-    color: #000000;
+    color: #586373;
 }
 
 .testimonial-container .testimonial-content .testimonial-body {
