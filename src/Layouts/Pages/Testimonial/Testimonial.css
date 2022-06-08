@@ -18,12 +18,12 @@
     .testimonial-content
     .testimonial-header
     .testimonial-title {
-    font-family: "HarmoniaSansProCyr-Bold";
+    font-family: "harmoniaSansReg";
     font-style: normal;
     font-weight: 400;
     font-size: 30px;
     letter-spacing: 0.5px;
-    color: #3d4550;
+    color: #333;
     margin-left: 6%;
 }
 
@@ -31,13 +31,14 @@
     .testimonial-content
     .testimonial-header
     .testimonial-sub-title {
-    font-family: "HarmoniaSansProCyr";
+    font-family: "harmoniaSansReg";
     font-style: normal;
     font-weight: 400;
-    font-size: 18px;
+    font-size: 14px;
     letter-spacing: 0.5px;
-    color: #586373;
+    color: #748194;
     margin-left: 6%;
+    margin-top: 7.5px;
 }
 
 .testimonial-container .testimonial-content .testimonial-body {
@@ -54,16 +55,6 @@
     align-items: center;
     justify-content: center;
 }
-
-/* .testimonial-container
-    .testimonial-content
-    .testimonial-body
-    .testimonial-body-content
-    .testimonial-all {
-    width: 100%;
-    display: flex;
-    justify-content: center;
-} */
 
 .testimonial-container
     .testimonial-content
@@ -223,7 +214,6 @@
         .testimonial-header
         .testimonial-title {
         font-weight: 900;
-        font-size: 20px;
         margin-bottom: 9px;
         margin-left: 4%;
     }
@@ -232,18 +222,8 @@
         .testimonial-content
         .testimonial-header
         .testimonial-sub-title {
-        font-size: 14px;
-        /* margin-top: 0; */
         margin-left: 4%;
     }
-
-    /* .testimonial-container
-        .testimonial-content
-        .testimonial-body
-        .testimonial-body-content
-        .testimonial-all {
-        width: 100%;
-    } */
 
     .testimonial-container .testimonial-content .testimonial-body {
         width: 100%;

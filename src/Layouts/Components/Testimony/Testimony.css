@@ -34,13 +34,13 @@
 }
 
 .testimonial-all .testimonial-single .single-card .testimony-name {
-    font-family: "HarmoniaSansProCyr-Bold";
+    font-family: "harmoniaSansReg";
     font-style: normal;
     font-weight: 700;
-    font-size: 18px;
+    font-size: 24px;
     letter-spacing: 0.5px;
     margin: 16px 32px 10px 32px;
-    color: #263238;
+    color: #333;
 }
 
 .testimonial-all .testimonial-single .single-card .testimony-stars .star-icon {
@@ -60,13 +60,13 @@
 }
 
 .testimonial-all .testimonial-single .single-card .testimony-statement {
-    font-family: "HarmoniaSansProCyr";
+    font-family: "harmoniaSansReg";
     font-style: normal;
     font-weight: 400;
-    font-size: 16px;
+    font-size: 14px;
     line-height: 20px;
     letter-spacing: 0.5px;
-    color: #263238;
+    color: #333;
     margin: 0 32px;
 }
 
@@ -111,9 +111,7 @@
     }
 
     .testimonial-all .testimonial-single .single-card .testimony-icon {
-        width: 34px;
-        height: 30px;
-        margin: 9px 0 7px 0;
+        display: none;
     }
 
     .testimonial-all .testimonial-single .single-card .testimony-statement {

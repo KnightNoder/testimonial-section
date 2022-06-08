@@ -26,7 +26,7 @@ class Testimonial extends Component {
             <div className="testimonial-container">
                 <div className="testimonial-content">
                     <div className="testimonial-header">
-                        <div className="testimonial-title">Setting The bar</div>
+                        <div className="testimonial-title">Setting the bar</div>
                         <div className="testimonial-sub-title">
                             Don't just take our word for it, listen to what our
                             Customers' have to say
