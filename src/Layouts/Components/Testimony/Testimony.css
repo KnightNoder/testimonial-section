@@ -2,9 +2,9 @@
     width: 100%;
     display: flex;
     justify-content: center;
-    align-items: flex-end;
+    align-items: center;
     height: 477px;
-    padding: 10px 0;
+    padding: 21px 0;
 }
 
 .testimonial-all .testimonial-single {
