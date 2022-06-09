@@ -22,7 +22,6 @@
     font-style: normal;
     font-weight: 500;
     font-size: 30px;
-    /* letter-spacing: -0.015em; */
     color: #333;
     margin-left: 6%;
 }
@@ -35,7 +34,6 @@
     font-style: normal;
     font-weight: 600;
     font-size: 14px;
-    /* letter-spacing: 0.5px; */
     color: #748194;
     margin-left: 6%;
     margin-top: 7.5px;
@@ -213,7 +211,6 @@
         .testimonial-content
         .testimonial-header
         .testimonial-title {
-        font-weight: 900;
         margin-bottom: 9px;
         margin-left: 4%;
     }
