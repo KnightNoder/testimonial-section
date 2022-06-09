@@ -36,7 +36,7 @@
 .testimonial-all .testimonial-single .single-card .testimony-name {
     font-family: "harmoniaSansReg";
     font-style: normal;
-    font-weight: 700;
+    font-weight: 500;
     font-size: 24px;
     letter-spacing: 0.5px;
     margin: 16px 32px 10px 32px;
@@ -60,12 +60,12 @@
 }
 
 .testimonial-all .testimonial-single .single-card .testimony-statement {
-    font-family: "harmoniaSansReg";
+    font-family: Harmonia Sans, sans-serif !important;
     font-style: normal;
-    font-weight: 400;
+    font-weight: 600;
     font-size: 14px;
     line-height: 20px;
-    letter-spacing: 0.5px;
+    /* letter-spacing: 0.5px; */
     color: #333;
     margin: 0 32px;
 }
