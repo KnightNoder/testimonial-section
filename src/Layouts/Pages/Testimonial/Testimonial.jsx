@@ -26,11 +26,11 @@ class Testimonial extends Component {
             <div className="testimonial-container">
                 <div className="testimonial-content">
                     <div className="testimonial-header">
-                        <div className="testimonial-title">Setting the bar</div>
-                        <div className="testimonial-sub-title">
+                        <div className="testimonial-title">Hear from people who have <span className="testimonial-title-highlight">tried and loved</span> Mars Hair care products.</div>
+                        {/* <div className="testimonial-sub-title">
                             Don't just take our word for it, listen to what our
                             Customers' have to say
-                        </div>
+                        </div> */}
                     </div>
                     <div className="testimonial-body">
                         <div className="testimonial-body-content">
