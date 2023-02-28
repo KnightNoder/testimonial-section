@@ -12,7 +12,7 @@ class TestimonialSlider extends Component {
                     image: "https://cdn.shopify.com/s/files/1/0632/5439/7077/files/dandruff_hairloss.png?v=1674040639",
                     label:"dandrufF AND HAIRLOSS",
                     description:
-                        "A dermatologist recommended this brand & the products fit perfectly in my skincare routine. My skin feels moisturized & I have got no new breakouts. I highly recommend it!",
+                        "Effective hair regrowth treatment, noticeable results within a month of use. Happy with the product and will continue to use it for continued hair growth.",
                 },
                 {
                     name: "Jason Smith",
